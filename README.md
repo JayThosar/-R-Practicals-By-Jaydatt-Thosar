@@ -1,5 +1,5 @@
 # R-Practicals
-All practicals contain the exeercise questions in their practical file.
+All practicals contain the exercise questions in their practical file.
 ---
 ## Author
 **jaydatt Thosar**
